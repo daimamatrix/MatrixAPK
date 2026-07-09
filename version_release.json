@@ -1,5 +1,13 @@
 {
-  "version": 1.23,
-  "app_name": "呆马聊天",
-  "test": "123123-111"
+  "daima_com.daima.im": {
+    "package_size": 131782223,
+    "apk_md_5_hash": "ad177d9aacebcf711ee60dffd409dce6",
+    "cur_version": "26.06.290",
+    "package_name": "com.daima.im",
+    "download_url": [
+      "https://xs-oss.dmds.xyz/lushilin2/uploads/app_version/online_release_v26.06.291.apk,https://github.com/daimamatrix/MatrixAPK/releases/download/v26.06.291/online_release_v26.06.291.apk"
+    ],
+    "version_description": "优化已知问题",
+    "client_version_force": ""
+  }
 }
