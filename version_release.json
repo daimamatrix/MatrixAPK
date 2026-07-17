@@ -1,28 +1,17 @@
 {
   "daima_com.daima.im": {
-    "package_size": 131782223,
-    "apk_md_5_hash": "ad177d9aacebcf711ee60dffd409dce6",
-    "cur_version": "26.06.291",
-    "version_code": 202606050,
-    "package_name": "com.daima.im",
-    "download_url": [
-      "https://xs-oss.dmds.xyz/lushilin2/uploads/app_version/online_release_v26.06.291.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/v26.06.291/online_release_v26.06.291.apk"
+    "apk_size_bytes": 220881896,
+    "apk_md5": "947a325f76706ce40a7037078879acaf",
+    "version_name": "26.07.0",
+    "version_code": 202607000,
+    "application_id": "com.daima.im",
+    "download_urls": [
+      "https://xs-oss.dmds.xyz/lushilin2/uploads/app_update/7/202607000.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.07.0-202607000/daima_com.daima.im_v26.07.0_202607000.apk"
     ],
-    "version_description": "优化已知问题",
-    "client_version_force": 0
-  },
-  "hk_com.daima.im.ai": {
-    "package_size": 131782223,
-    "apk_md_5_hash": "ad177d9aacebcf711ee60dffd409dce6",
-    "cur_version": "26.06.291",
-    "version_code": 202606050,
-    "package_name": "com.daima.im.ai",
-    "download_url": [
-      "https://xs-oss.dmds.xyz/lushilin2/uploads/app_version/online_release_v26.06.291.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/v26.06.291/online_release_v26.06.291.apk"
-    ],
-    "version_description": "优化已知问题",
-    "client_version_force": 0
+    "store_url": "",
+    "release_notes": "",
+    "minimum_version_name": "",
+    "minimum_version_code": 0
   }
 }
