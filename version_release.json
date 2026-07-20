@@ -13,5 +13,20 @@
     "release_notes": "### 更新日志\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1",
     "minimum_version_name": "",
     "minimum_version_code": 0
+  },
+  "wear_com.daima.wear.ai": {
+    "apk_size_bytes": 96000197,
+    "apk_md5": "f218cceb7cc5b59876f2b73dc6474abc",
+    "version_name": "26.07.150",
+    "version_code": 151,
+    "application_id": "com.daima.wear.ai",
+    "download_urls": [
+      "https://xs-oss.dmds.xyz/lushilin2/uploads/app_update/3/151.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/wear-v26.07.150-151/wear_com.daima.wear.ai_v26.07.150_151.apk"
+    ],
+    "store_url": "",
+    "release_notes": "#更新测试\n#更新测试\n#更新测试\n#更新测试\n#更新测试",
+    "minimum_version_name": "",
+    "minimum_version_code": 0
   }
 }
