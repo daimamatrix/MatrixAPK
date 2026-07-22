@@ -1,32 +1,17 @@
 {
-  "daima_com.daima.im": {
-    "apk_size_bytes": 220881896,
-    "apk_md5": "947a325f76706ce40a7037078879acaf",
+  "daima_com.daima.im.ai": {
+    "apk_size_bytes": 173248788,
+    "apk_md5": "146d38c7770c88028c457f12800c298a",
     "version_name": "26.07.0",
     "version_code": 202607000,
-    "application_id": "com.daima.im",
+    "application_id": "com.daima.im.ai",
     "download_urls": [
-      "https://xs-oss.dmds.xyz/lushilin2/uploads/app_update/7/202607000.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.07.0-202607000/daima_com.daima.im_v26.07.0_202607000.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/1/202607000.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.07.0-202607000/daima_com.daima.im.ai_v26.07.0_202607000.apk"
     ],
     "store_url": "",
-    "release_notes": "### 更新日志\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1\n- 修改文1",
-    "minimum_version_name": "",
-    "minimum_version_code": 0
-  },
-  "wear_com.daima.wear.ai": {
-    "apk_size_bytes": 96000197,
-    "apk_md5": "f218cceb7cc5b59876f2b73dc6474abc",
-    "version_name": "26.07.150",
-    "version_code": 151,
-    "application_id": "com.daima.wear.ai",
-    "download_urls": [
-      "https://xs-oss.dmds.xyz/lushilin2/uploads/app_update/3/151.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/wear-v26.07.150-151/wear_com.daima.wear.ai_v26.07.150_151.apk"
-    ],
-    "store_url": "",
-    "release_notes": "#更新测试\n#更新测试\n#更新测试\n#更新测试\n#更新测试",
-    "minimum_version_name": "",
-    "minimum_version_code": 0
+    "release_notes": "## 版本更新日志\n本次更新主要包括：\n- 页面风格焕新，整体调整为更简洁、沉稳的视觉风格。\n- 优化登录、聊天及部分常用功能的使用体验。\n- 调整部分页面布局与交互细节。\n- 修复已知问题，提升应用稳定性。",
+    "minimum_version_name": "26.07.0",
+    "minimum_version_code": 202607000
   }
 }
