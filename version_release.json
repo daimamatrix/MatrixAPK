@@ -13,5 +13,20 @@
     "release_notes": "## 更新日志\n\n- 修改语音/视频通话通知样式\n- 二维码生成和分享逻辑修改\n- 修复已知问题和页面以及稳定性优化",
     "minimum_version_name": "26.07.1",
     "minimum_version_code": 202607010
+  },
+  "hk_com.daima.im.ai": {
+    "apk_size_bytes": 173366943,
+    "apk_md5": "99a688bcadd610ec32bc81d9b3ea815a",
+    "version_name": "26.07.2",
+    "version_code": 202607020,
+    "application_id": "com.daima.im.ai",
+    "download_urls": [
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/4/202607020.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/hk-v26.07.2-202607020/hk_com.daima.im.ai_v26.07.2_202607020.apk"
+    ],
+    "store_url": "",
+    "release_notes": "",
+    "minimum_version_name": "",
+    "minimum_version_code": 0
   }
 }
