@@ -1,17 +1,17 @@
 {
   "daima_com.daima.im.ai": {
-    "apk_size_bytes": 173317627,
-    "apk_md5": "c76ecbb630c7b2e81a36636a3d724ad5",
-    "version_name": "26.07.2",
-    "version_code": 202607020,
+    "apk_size_bytes": 173414107,
+    "apk_md5": "162a7a2fbcd9a046ba9a0bd1ff85bed0",
+    "version_name": "26.07.3",
+    "version_code": 202607030,
     "application_id": "com.daima.im.ai",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/1/202607020.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.07.2-202607020/daima_com.daima.im.ai_v26.07.2_202607020.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/1/202607030.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.07.3-202607030/daima_com.daima.im.ai_v26.07.3_202607030.apk"
     ],
     "store_url": "",
-    "release_notes": "## 更新日志\n\n- 修改语音/视频通话通知样式\n- 二维码生成和分享逻辑修改\n- 修复已知问题和页面以及稳定性优化",
-    "minimum_version_name": "26.07.1",
+    "release_notes": "## 更新日志\n\n  本次更新重点完善通讯录、联系人备注和消息列表体验：\n\n  - 新增统一通讯录，支持联系人搜索、字母分组、快速索引和下拉刷新。\n  - 支持为联系人设置私有备注，并在多设备之间同步；备注会统一应用于会话列表、聊天页面、群成员、用户资料和搜索结果。\n  - 群聊输入 @ 时支持通过联系人备注查找成员；最近消息中的用户提及也会优先显示备注名称。\n  - 优化“我的员工”列表，新增全屏搜索和多设备筛选，统一列表样式、分割线及空状态展示。\n  - 优化未读消息提示：未读数量改为红色角标，超过 99 条显示 99+，底部“消息”入口增加新消息红点。\n  - 收紧首页消息列表布局，统一最新消息摘要、列表间距、分割线和底部 Tab 文案。\n  - 修复短信登录时键盘遮挡、系统返回行为异常等问题。\n  - 优化新设备初始化、安全备份恢复及失败重试流程。\n  - 完善后台语音、视频来电提醒和相关权限引导。\n  - 优化隐私提示、发送按钮等界面细节，并修复若干稳定性问题。",
+    "minimum_version_name": "26.07.2",
     "minimum_version_code": 202607010
   },
   "hk_com.daima.im.ai": {
