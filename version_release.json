@@ -1,16 +1,16 @@
 {
   "daima_com.daima.im.ai": {
-    "apk_size_bytes": 173447839,
-    "apk_md5": "df4d0c083410a8ac25ac133737d29f2d",
-    "version_name": "26.07.4",
-    "version_code": 202607040,
+    "apk_size_bytes": 175361188,
+    "apk_md5": "964edee8d139a6f5bdff5c74a7963df8",
+    "version_name": "26.08.5",
+    "version_code": 202608050,
     "application_id": "com.daima.im.ai",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/1/202607040.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.07.4-202607040/daima_com.daima.im.ai_v26.07.4_202607040.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/1/202608050.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.08.5-202608050/daima_com.daima.im.ai_v26.08.5_202608050.apk"
     ],
     "store_url": "",
-    "release_notes": "## 更新日志\n\n- 新增离线消息提醒。\n- 新增 `@成员` 独立已读、未读状态。\n- 新增员工设备筛选与设备管理。\n- 优化房间信息页成员布局。\n- 完善联系人备注在聊天和成员页面的展示。\n- 优化语音转文字编辑与 `@成员` 功能。\n- 完善来电通知未开启时的引导。\n- 统一并修复用户、房间和消息分享链接。\n- 修复邀请超时、员工筛选错位等问题。",
+    "release_notes": "# 更新日志\n\n  - 新增头像裁剪功能\n  - 完善群视频会议来电提醒\n  - 优化房间信息及会话摘要展示\n  - 优化语音转文字和 Token 余额提示\n  - 优化应用更新弹窗及线路延迟展示\n  - 修复弱网下消息重复发送问题\n  - 修复网络恢复后仍显示离线的问题\n  - 修复通讯录搜索及提及昵称显示问题",
     "minimum_version_name": "26.07.2",
     "minimum_version_code": 202607010
   },
