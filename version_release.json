@@ -15,17 +15,17 @@
     "minimum_version_code": 202608050
   },
   "hk_com.daima.im.ai": {
-    "apk_size_bytes": 173473347,
-    "apk_md5": "7a078573b0f3c3e34f1c5023c0f5722e",
-    "version_name": "26.07.3",
-    "version_code": 202607030,
+    "apk_size_bytes": 175403884,
+    "apk_md5": "526cc3ede9860ce65390637504c20c12",
+    "version_name": "26.08.5",
+    "version_code": 202608050,
     "application_id": "com.daima.im.ai",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/4/202607030.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/hk-v26.07.3-202607030/hk_com.daima.im.ai_v26.07.3_202607030.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/4/202608050.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/hk-v26.08.5-202608050/hk_com.daima.im.ai_v26.08.5_202608050.apk"
     ],
     "store_url": "",
-    "release_notes": "## 更新日志\n\n1. 新增统一通讯录，整合联系人、我的员工及已加入的私聊联系人，支持备注名称、拼音搜索、字母分组和下拉刷新。\n2. 优化未读消息展示，会话列表和底部“消息”入口可更准确地显示未读数量与提醒红点。\n3. 完善联系人备注能力，聊天中的 @提及 支持优先显示联系人备注。\n4. 优化语音转文字，支持编辑转写内容、插入 @提及 并发送带提及关系的消息。\n5. 统一用户、房间和群组的分享链接及扫码识别规则，提升不同版本链接的兼容性。\n6. 优化首页消息列表、底部导航图标及“我的员工”页面的视觉和搜索体验。\n7. 修复通讯录、商城凭证恢复、应用锁、未读角标及消息长按操作等已知问题。",
+    "release_notes": "优化用户体验",
     "minimum_version_name": "",
     "minimum_version_code": 0
   },
