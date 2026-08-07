@@ -15,19 +15,19 @@
     "minimum_version_code": 202608050
   },
   "hk_com.daima.im.ai": {
-    "apk_size_bytes": 175403884,
-    "apk_md5": "526cc3ede9860ce65390637504c20c12",
-    "version_name": "26.08.5",
-    "version_code": 202608050,
+    "apk_size_bytes": 175404628,
+    "apk_md5": "c78904b815786d277269b0ad64deb634",
+    "version_name": "26.08.6",
+    "version_code": 202608060,
     "application_id": "com.daima.im.ai",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/4/202608050.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/hk-v26.08.5-202608050/hk_com.daima.im.ai_v26.08.5_202608050.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/4/202608060.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/hk-v26.08.6-202608060/hk_com.daima.im.ai_v26.08.6_202608060.apk"
     ],
     "store_url": "",
-    "release_notes": "优化用户体验",
-    "minimum_version_name": "",
-    "minimum_version_code": 0
+    "release_notes": "## 更新日志\n\n- 修复部分情况下无法正常登录或重新登录的问题\n- 修复部分用户无法扫码绑定NXNOS的问题\n- 修复部分应用无法正常打开的问题\n- 优化多项使用细节，提升应用稳定性和兼容性。",
+    "minimum_version_name": "26.08.6",
+    "minimum_version_code": 202608060
   },
   "wear_com.daima.wear.ai": {
     "apk_size_bytes": 96108275,
