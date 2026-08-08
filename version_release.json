@@ -30,18 +30,18 @@
     "minimum_version_code": 202608060
   },
   "wear_com.daima.wear.ai": {
-    "apk_size_bytes": 96108275,
-    "apk_md5": "498112bd305b55b5e976062c98a5fa54",
-    "version_name": "26.08.060",
-    "version_code": 150,
+    "apk_size_bytes": 96112963,
+    "apk_md5": "20a52fee13bb86d421d7767ff8e50776",
+    "version_name": "26.08.070",
+    "version_code": 151,
     "application_id": "com.daima.wear.ai",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/5/150.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/wear-v26.08.060-150/wear_com.daima.wear.ai_v26.08.060_150.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/5/151.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/wear-v26.08.070-151/wear_com.daima.wear.ai_v26.08.070_151.apk"
     ],
     "store_url": "",
-    "release_notes": "# 更新日志\n\n- 添加TTS多音色选择",
-    "minimum_version_name": "26.08.060",
-    "minimum_version_code": 150
+    "release_notes": "# 更新日志\n\n- 修改Token获取失败问题",
+    "minimum_version_name": "26.08.070",
+    "minimum_version_code": 151
   }
 }
