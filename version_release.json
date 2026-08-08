@@ -41,7 +41,7 @@
     ],
     "store_url": "",
     "release_notes": "# 更新日志\n\n- 修改Token获取失败问题",
-    "minimum_version_name": "26.08.070",
-    "minimum_version_code": 151
+    "minimum_version_name": "",
+    "minimum_version_code": 0
   }
 }
