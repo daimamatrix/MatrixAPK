@@ -1,16 +1,16 @@
 {
   "daima_com.daima.im.ai": {
-    "apk_size_bytes": 175361188,
-    "apk_md5": "d12b7a06f3d971e6a219f3c5b3d756ce",
-    "version_name": "26.08.6",
-    "version_code": 202608060,
+    "apk_size_bytes": 221197715,
+    "apk_md5": "84e2f0a094ef879a75c5936e13ec0e7c",
+    "version_name": "26.08.7",
+    "version_code": 202608070,
     "application_id": "com.daima.im.ai",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/1/202608060.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.08.6-202608060/daima_com.daima.im.ai_v26.08.6_202608060.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/1/202608070.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.08.7-202608070/daima_com.daima.im.ai_v26.08.7_202608070.apk"
     ],
     "store_url": "",
-    "release_notes": "# 更新日志\n\n- 新增头像裁剪功能\n- 完善群视频会议来电提醒\n- 优化房间信息及会话摘要展示\n- 优化语音转文字和 Token 余额提示\n- 优化应用更新弹窗及线路延迟展示\n- 修复弱网下消息重复发送问题\n- 修复网络恢复后仍显示离线的问题\n- 修复通讯录搜索及提及昵称显示问题",
+    "release_notes": "## 更新日志\n\n- 新增面对面同声传译和语音音色设置。\n- 优化聊天语音转文字的速度与稳定性。\n- 新增通讯录“服务号”入口，完善群聊消息已读/未读详情。\n- 优化服务号、算力令牌和设备页面的使用体验。\n- 修复投票闪退、更新提醒异常等问题，提升整体稳定性。",
     "minimum_version_name": "26.08.5",
     "minimum_version_code": 202608050
   },
