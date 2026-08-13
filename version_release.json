@@ -43,5 +43,20 @@
     "release_notes": "优化已知问题",
     "minimum_version_name": "26.08.110",
     "minimum_version_code": 152
+  },
+  "woli_com.woli.farm.im": {
+    "apk_size_bytes": 221185659,
+    "apk_md5": "d7289ec682a9ab60d123517144087562",
+    "version_name": "26.08.7",
+    "version_code": 202608070,
+    "application_id": "com.woli.farm.im",
+    "download_urls": [
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/6/202608070.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/woli-v26.08.7-202608070/woli_com.woli.farm.im_v26.08.7_202608070.apk"
+    ],
+    "store_url": "",
+    "release_notes": "",
+    "minimum_version_name": "",
+    "minimum_version_code": 0
   }
 }
