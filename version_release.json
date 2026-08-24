@@ -15,17 +15,17 @@
     "minimum_version_code": 202608050
   },
   "hk_com.daima.im.ai": {
-    "apk_size_bytes": 221241151,
-    "apk_md5": "b7756911e5bb39bdb1f170acf8273a76",
-    "version_name": "26.08.7",
-    "version_code": 202608070,
+    "apk_size_bytes": 221294815,
+    "apk_md5": "f6f30393cc6437a2bb2c7007fb7c35bd",
+    "version_name": "26.08.24",
+    "version_code": 202608240,
     "application_id": "com.daima.im.ai",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/4/202608070.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/hk-v26.08.7-202608070/hk_com.daima.im.ai_v26.08.7_202608070.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/4/202608240.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/hk-v26.08.24-202608240/hk_com.daima.im.ai_v26.08.24_202608240.apk"
     ],
     "store_url": "",
-    "release_notes": "- 面对面同传与 TTS：新增翻译、语音播放、音色设置及相关页面。\n- 联系人和首页：通讯录、服务号入口、联系人展示和导航调整。\n- PDA、员工、算力 Token：补充错误态、刷新、分页、余额和设置入口。",
+    "release_notes": "## 更新日志\n\n- 新增聊天语音听写功能，可将说话内容实时转换为文字并直接编辑发送，最长支持3分钟。\n- 聊天“+”菜单增加“同声传译”，支持中文、英语、日语双向翻译。\n- 新增会话置顶功能，长按会话即可置顶或取消置顶。\n- 优化“按住说话转文字”体验，录音过程中即可实时查看识别结果。\n- 发起聊天时支持通过手机号搜索用户。\n- 群聊邀请页面新增员工推荐和员工搜索。\n- 通讯录增加服务号功能\n- 修正音视频通话状态文案，使取消、拒绝和结束状态更加清晰。\n- 修复若干已知问题，提升应用稳定性和使用体验。",
     "minimum_version_name": "",
     "minimum_version_code": 0
   },
