@@ -1,16 +1,16 @@
 {
   "daima_com.daima.im.ai": {
-    "apk_size_bytes": 221941807,
-    "apk_md5": "df0b94bd226d50e154a5dc8cb5fcd149",
-    "version_name": "26.09.2",
-    "version_code": 202609020,
+    "apk_size_bytes": 228389208,
+    "apk_md5": "454ac3412623779c66df25db40c175d1",
+    "version_name": "26.09.20",
+    "version_code": 202609200,
     "application_id": "com.daima.im.ai",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/1/202609020.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.09.2-202609020/daima_com.daima.im.ai_v26.09.2_202609020.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/1/202609200.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.09.20-202609200/daima_com.daima.im.ai_v26.09.20_202609200.apk"
     ],
     "store_url": "",
-    "release_notes": "## 更新日志\n\n- 新消息支持顶部横幅提醒、系统默认提示音及会话头像展示。\n- 新增群二维码与扫码入群，符合条件的群聊可分享二维码，其他用户扫码后申请加入。\n- 群聊支持“申请加入”模式，并在房间信息页集中展示和处理加入申请。\n- 单聊会话列表及聊天页面新增“离线”状态提示。\n- 新增聊天文本自动播报，可针对单个会话开启，自动朗读最新收到的文本消息，并支持暂停和继续播放。\n- 个人资料新增呆马号展示与复制，联系人及员工搜索支持通过手机号或呆马号查找。\n- “我的员工”新增 v4、v5 客户端类型筛选，并支持与设备条件组合筛选。\n- 调整个人资料页面样式。",
+    "release_notes": "1.增加会议记录模式功能\n2.上线原生音视频通话提高兼容性\n3.已知问题优化修复。",
     "minimum_version_name": "26.08.5",
     "minimum_version_code": 202608050
   },
