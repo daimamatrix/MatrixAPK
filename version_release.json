@@ -10,7 +10,7 @@
       "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.09.20-202609200/daima_com.daima.im.ai_v26.09.20_202609200.apk"
     ],
     "store_url": "",
-    "release_notes": "## 更新日志\n- 1.增加会议记录模式功能\n- 2.上线原生音视频通话提高兼容性\n- 3.已知问题优化修复。",
+    "release_notes": "### 更新日志\n- 增加会议记录模式功能\n- 上线原生音视频通话提高兼容性\n- 已知问题优化修复。",
     "minimum_version_name": "26.08.5",
     "minimum_version_code": 202608050
   },
