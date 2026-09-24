@@ -14,6 +14,20 @@
     "minimum_version_name": "26.08.5",
     "minimum_version_code": 202608050
   },
+  "daimatv_com.daima.im.ai": {
+    "apk_size_bytes": 229685692,
+    "apk_md5": "5a1d5d16bb37facb40ce32118b283541",
+    "version_name": "26.09.22",
+    "version_code": 202609220,
+    "application_id": "com.daima.im.ai",
+    "download_urls": [
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/7/202609220.apk"
+    ],
+    "store_url": "",
+    "release_notes": "tv版本发布",
+    "minimum_version_name": "",
+    "minimum_version_code": 0
+  },
   "hk_com.daima.im.ai": {
     "apk_size_bytes": 229711124,
     "apk_md5": "c404551e494ed9d32d5335d63737a8d4",
