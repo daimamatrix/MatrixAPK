@@ -1,16 +1,16 @@
 {
   "daima_com.daima.im.ai": {
-    "apk_size_bytes": 228389208,
-    "apk_md5": "454ac3412623779c66df25db40c175d1",
-    "version_name": "26.09.20",
-    "version_code": 202609200,
+    "apk_size_bytes": 232035200,
+    "apk_md5": "de51027d4837460a50395390277600dd",
+    "version_name": "26.10.15",
+    "version_code": 202610150,
     "application_id": "com.daima.im.ai",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/1/202609200.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.09.20-202609200/daima_com.daima.im.ai_v26.09.20_202609200.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/1/202610150.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/daima-v26.10.15-202610150/daima_com.daima.im.ai_v26.10.15_202610150.apk"
     ],
     "store_url": "",
-    "release_notes": "### 更新日志\n- 增加会议记录模式功能\n- 上线原生音视频通话提高兼容性\n- 已知问题优化修复。",
+    "release_notes": "修复优化已知问题",
     "minimum_version_name": "26.08.5",
     "minimum_version_code": 202608050
   },
@@ -29,17 +29,17 @@
     "minimum_version_code": 0
   },
   "hk_com.daima.im.ai": {
-    "apk_size_bytes": 229711124,
-    "apk_md5": "c404551e494ed9d32d5335d63737a8d4",
-    "version_name": "26.09.20",
-    "version_code": 202609200,
+    "apk_size_bytes": 232095724,
+    "apk_md5": "8c9f00fa47a88b06f88b2d009e4efdba",
+    "version_name": "26.10.15",
+    "version_code": 202610150,
     "application_id": "com.daima.im.ai",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/4/202609200.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/hk-v26.09.20-202609200/hk_com.daima.im.ai_v26.09.20_202609200.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/4/202610150.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/hk-v26.10.15-202610150/hk_com.daima.im.ai_v26.10.15_202610150.apk"
     ],
     "store_url": "",
-    "release_notes": "### 更新日志\n- 增加会议记录模式功能\n- 上线原生音视频通话提高兼容性\n- 已知问题优化修复。",
+    "release_notes": "### 更新\n\n- 修复优化已知问题",
     "minimum_version_name": "",
     "minimum_version_code": 0
   },
