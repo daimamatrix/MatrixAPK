@@ -39,7 +39,7 @@
       "https://github.com/daimamatrix/MatrixAPK/releases/download/hk-v26.10.15-202610150/hk_com.daima.im.ai_v26.10.15_202610150.apk"
     ],
     "store_url": "",
-    "release_notes": "### 更新\n\n- 修复优化已知问题",
+    "release_notes": "### 更新\n\n- 新增未成年人模式功能。\n- 优化会议识别、记录导出与回放体验。\n- 优化音视频通话及来电提醒。\n- 优化联系人搜索和一键登录。\n- 已知问题优化修复",
     "minimum_version_name": "",
     "minimum_version_code": 0
   },
