@@ -74,17 +74,17 @@
     "minimum_version_code": 0
   },
   "yunxiaohui_com.yunxiaohui.app": {
-    "apk_size_bytes": 99433099,
-    "apk_md5": "313e9e5ffd0443d556662f844f6dfdef",
-    "version_name": "26.11.02",
-    "version_code": 202611022,
+    "apk_size_bytes": 99490396,
+    "apk_md5": "932a1ba9df7d3242f61de1a1355e4014",
+    "version_name": "26.11.03",
+    "version_code": 202611032,
     "application_id": "com.yunxiaohui.app",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/8/202611022.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/yunxiaohui-v26.11.02-202611022/yunxiaohui_com.yunxiaohui.app_v26.11.02_202611022.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/8/202611032.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/yunxiaohui-v26.11.03-202611032/yunxiaohui_com.yunxiaohui.app_v26.11.03_202611032.apk"
     ],
     "store_url": "",
-    "release_notes": "### 更新\n\n-欢迎使用云小惠",
+    "release_notes": "### 更新\n\n-优化用户体验",
     "minimum_version_name": "",
     "minimum_version_code": 0
   }
