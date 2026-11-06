@@ -74,17 +74,17 @@
     "minimum_version_code": 0
   },
   "yunxiaohui_com.yunxiaohui.app": {
-    "apk_size_bytes": 99490396,
-    "apk_md5": "932a1ba9df7d3242f61de1a1355e4014",
-    "version_name": "26.11.03",
-    "version_code": 202611032,
+    "apk_size_bytes": 109387173,
+    "apk_md5": "d737b1590a8e14f5686eae0c09dbd21a",
+    "version_name": "26.11.07",
+    "version_code": 202611072,
     "application_id": "com.yunxiaohui.app",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/8/202611032.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/yunxiaohui-v26.11.03-202611032/yunxiaohui_com.yunxiaohui.app_v26.11.03_202611032.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/8/202611072.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/yunxiaohui-v26.11.07-202611072/yunxiaohui_com.yunxiaohui.app_v26.11.07_202611072.apk"
     ],
     "store_url": "",
-    "release_notes": "### 更新\n\n-优化用户体验",
+    "release_notes": "### 更新\n\n- 新增商家销售日报，支持查看销售趋势及商品、视频明细。\n- 新增商品发布确认和宣传文案卡片，支持一键复制文案。\n- 升级视频混剪，新增字幕、转场、加速变声和自动抽帧，优化配音及高清导出。\n- 优化聊天操作、语音输入和朗读体验。\n- 优化图片视频加载与分享，修复相册显示及偶发闪退问题。",
     "minimum_version_name": "",
     "minimum_version_code": 0
   }
