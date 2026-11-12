@@ -57,6 +57,20 @@
     "minimum_version_name": "",
     "minimum_version_code": 0
   },
+  "storecn_com.daima.im.ai": {
+    "apk_size_bytes": 109194023,
+    "apk_md5": "ca03bb85cf7562a899c9acb60db5a86e",
+    "version_name": "26.11.12",
+    "version_code": 202611120,
+    "application_id": "com.daima.im.ai",
+    "download_urls": [
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/10/202611120.apk"
+    ],
+    "store_url": "",
+    "release_notes": "国内应用市场版本发布",
+    "minimum_version_name": "",
+    "minimum_version_code": 0
+  },
   "wear_com.daima.wear.ai": {
     "apk_size_bytes": 96112199,
     "apk_md5": "c8794e0554240b02fa7dcccbb2ca2420",
