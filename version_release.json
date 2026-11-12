@@ -28,6 +28,20 @@
     "minimum_version_name": "",
     "minimum_version_code": 0
   },
+  "daimazat_com.daima.im.zat": {
+    "apk_size_bytes": 109194011,
+    "apk_md5": "3a15626fee271510f4f613f58970f597",
+    "version_name": "26.11.12",
+    "version_code": 202611120,
+    "application_id": "com.daima.im.zat",
+    "download_urls": [
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/9/202611120.apk"
+    ],
+    "store_url": "",
+    "release_notes": "app发布更新",
+    "minimum_version_name": "",
+    "minimum_version_code": 0
+  },
   "hk_com.daima.im.ai": {
     "apk_size_bytes": 232095724,
     "apk_md5": "8c9f00fa47a88b06f88b2d009e4efdba",
