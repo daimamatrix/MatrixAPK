@@ -102,17 +102,17 @@
     "minimum_version_code": 0
   },
   "yunxiaohui_com.yunxiaohui.app": {
-    "apk_size_bytes": 130241553,
-    "apk_md5": "66328b89228d7c290bca73bcf78a4e4b",
-    "version_name": "26.11.15",
-    "version_code": 202611150,
+    "apk_size_bytes": 130510075,
+    "apk_md5": "be0a70089f4284ae47ec958a4d1cd30a",
+    "version_name": "26.11.17",
+    "version_code": 202611170,
     "application_id": "com.yunxiaohui.app",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/8/202611150.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/yunxiaohui-v26.11.15-202611150/yunxiaohui_com.yunxiaohui.app_v26.11.15_202611150.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/8/202611170.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/yunxiaohui-v26.11.17-202611170/yunxiaohui_com.yunxiaohui.app_v26.11.17_202611170.apk"
     ],
     "store_url": "",
-    "release_notes": "### 更新\n\n- 新增「我的权益」，支持套餐激活、充值、继续支付和查询使用记录。\n- 优化区域拓客和定位拓客，支持设置搜索半径，按实际新增联系人扣次。\n- 升级剪辑师，新增口播音频选择和教学视频缩略图。\n- 新增会员推荐人绑定，支持在「我的」查看推荐人信息。\n- 优化聊天语音识别和智能体会话搜索，机器人和员工私聊支持消息编辑和语音播报开关。\n- 新增会议室扫码投屏，支持断线重连，优化多人通话布局和弱网提示。",
+    "release_notes": "### 更新\n\n- 优化区域与定位拓客，新增上下游标签和 AI 推荐，支持无标签搜索。\n- 优化剪辑师，支持背景音乐多选、视频旋转和充值跳转。\n- 优化智能体聊天与语音转写，支持 Bot 和 Staff 私聊编辑、引用消息。\n- 新增会议室投屏断线自动重连。\n- 优化会员权益页面及使用记录展示。",
     "minimum_version_name": "",
     "minimum_version_code": 0
   }
