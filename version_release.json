@@ -102,17 +102,17 @@
     "minimum_version_code": 0
   },
   "yunxiaohui_com.yunxiaohui.app": {
-    "apk_size_bytes": 130510075,
-    "apk_md5": "be0a70089f4284ae47ec958a4d1cd30a",
-    "version_name": "26.11.17",
-    "version_code": 202611170,
+    "apk_size_bytes": 130529775,
+    "apk_md5": "0239ddd16ba6d0bf98285d7cf7895de3",
+    "version_name": "26.11.19",
+    "version_code": 202611190,
     "application_id": "com.yunxiaohui.app",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/8/202611170.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/yunxiaohui-v26.11.17-202611170/yunxiaohui_com.yunxiaohui.app_v26.11.17_202611170.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/8/202611190.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/yunxiaohui-v26.11.19-202611190/yunxiaohui_com.yunxiaohui.app_v26.11.19_202611190.apk"
     ],
     "store_url": "",
-    "release_notes": "### 更新\n\n- 优化区域与定位拓客，新增上下游标签和 AI 推荐，支持无标签搜索。\n- 优化剪辑师，支持背景音乐多选、视频旋转和充值跳转。\n- 优化智能体聊天与语音转写，支持 Bot 和 Staff 私聊编辑、引用消息。\n- 新增会议室投屏断线自动重连。\n- 优化会员权益页面及使用记录展示。",
+    "release_notes": "### 更新\n\n- 优化拓客筛选，修复上下游搜索遗漏行业条件的问题。\n- 新增拓客保存时的充值入口，返回自动刷新额度。\n- 优化地图选点重试。\n- 修改「我的权益」提醒逻辑，记住待支付提醒的关闭状态",
     "minimum_version_name": "",
     "minimum_version_code": 0
   }
