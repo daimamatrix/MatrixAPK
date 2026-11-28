@@ -102,17 +102,17 @@
     "minimum_version_code": 0
   },
   "yunxiaohui_com.yunxiaohui.app": {
-    "apk_size_bytes": 130531650,
-    "apk_md5": "65a8860411c48b89f614effffb5c0bbe",
-    "version_name": "26.11.21",
-    "version_code": 202611210,
+    "apk_size_bytes": 130627780,
+    "apk_md5": "6d2af0271739f749cbb960b1f6e17a0a",
+    "version_name": "26.11.25",
+    "version_code": 202611250,
     "application_id": "com.yunxiaohui.app",
     "download_urls": [
-      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/8/202611210.apk",
-      "https://github.com/daimamatrix/MatrixAPK/releases/download/yunxiaohui-v26.11.21-202611210/yunxiaohui_com.yunxiaohui.app_v26.11.21_202611210.apk"
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/8/202611250.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/yunxiaohui-v26.11.25-202611250/yunxiaohui_com.yunxiaohui.app_v26.11.25_202611250.apk"
     ],
     "store_url": "",
-    "release_notes": "### 更新\n\n- 优化激活中心卡片，修复豪华版大卡片显示。\n- 新增套餐复购入口，移除权益总览的限时活动横幅。\n- 权益品类按后台配置展示，激活到账后自动刷新余额。\n- 同一订单的套餐到账记录合并展示。",
+    "release_notes": "### 更新\n\n- 优化拓客入口和「我的权益」套餐展示。\n- 优化智能体语音输入，新增 PPT 和文案指令卡片。\n- 优化剪辑师 AI 改写和素材导入。\n- 新增敏感词校验，修复聊天拍照崩溃和 OA 漏收补查问题",
     "minimum_version_name": "",
     "minimum_version_code": 0
   }
