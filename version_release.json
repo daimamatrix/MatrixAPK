@@ -14,6 +14,21 @@
     "minimum_version_name": "26.08.5",
     "minimum_version_code": 202608050
   },
+  "daimaos_com.dm.nxnos": {
+    "apk_size_bytes": 129744469,
+    "apk_md5": "f753276a730d14615347d8e958f2656b",
+    "version_name": "26.11.25",
+    "version_code": 202611250,
+    "application_id": "com.dm.nxnos",
+    "download_urls": [
+      "https://dmchatapp.daima.mobi:10830/oss/dmchat/uploads/app_update/11/202611250.apk",
+      "https://github.com/daimamatrix/MatrixAPK/releases/download/daimaos-v26.11.25-202611250/daimaos_com.dm.nxnos_v26.11.25_202611250.apk"
+    ],
+    "store_url": "",
+    "release_notes": "## 更新日志\n呆马OS 正式发布。",
+    "minimum_version_name": "26.11.25",
+    "minimum_version_code": 202611250
+  },
   "daimatv_com.daima.im.ai": {
     "apk_size_bytes": 229685692,
     "apk_md5": "5a1d5d16bb37facb40ce32118b283541",
